@@ -1,1 +1,6 @@
 -e .
+aws_cdk.core==1.130.0
+aws_cdk.aws-iam==1.130.0
+aws_cdk.aws-eks==1.130.0
+aws_cdk.aws_ec2==1.130.0
+pyyaml
